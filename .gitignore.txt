@@ -1,0 +1,39 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Precompiled headers
+*.pch
+*.ipch
+
+# Visual Studio cache files
+*.VC.db
+*.VC.opendb
+*.log
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+*.app
+*.so
+*.a
+
+# Other temporary files
+*.tmp
+*.log
+*.out
+
+# OS files
+Thumbs.db
+.DS_Store

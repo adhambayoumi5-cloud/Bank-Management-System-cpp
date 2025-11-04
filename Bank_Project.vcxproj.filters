@@ -13,6 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{90facc53-8eb3-4a45-a6d2-0252cc394d80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Lib">
+      <UniqueIdentifier>{edd7a37d-91b9-402e-9174-44fcd397fd5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{d3fa2860-8ec7-4e18-8b1e-a846346c246e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Clients">
+      <UniqueIdentifier>{852c5017-a368-4714-9da9-9e3e603377ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Curriencies">
+      <UniqueIdentifier>{e32722ba-c569-4cf1-ac08-8b6d06958524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Users">
+      <UniqueIdentifier>{fced817d-dcdd-4d18-a4b2-cb05ab9ac916}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Bank_Project.cpp">
@@ -20,113 +38,104 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\ConsoleApplication27\clsAddNewClientScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsAddNewUserScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsBankClient.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsClientListScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsCurrenciesListScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsCurrency.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsCurrencyCalculatorScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsCurrencyExchangeMainScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsDate.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsDeleteClientScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsDeleteUserScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsDepositScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsFindClientScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsFindCurrencyScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsFindUserScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsInputValidate.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsListUsersScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsLoginRegisterScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsLoginScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsMainScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsManageUsersScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsPerson.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsString.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsTotalBalancesScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsTransactionsScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsTransferLogScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsTransferScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsUpdateClientScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsUpdateCurrencyRateScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsUpdateUserScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsUser.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsUtil.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\ConsoleApplication27\clsWithdrawScreen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\ConsoleApplication27\Global.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\ConsoleApplication27\InterfaceCommunication.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsBankClient.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsCurrency.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsPerson.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsUser.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsDate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsInputValidate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsString.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsUtil.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsAddNewClientScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsClientListScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsDeleteClientScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsDepositScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsFindClientScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsTransactionsScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsUpdateClientScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsDeleteUserScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsTransferLogScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsCurrencyExchangeMainScreen.h">
+      <Filter>Header Files\Screens\Curriencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsCurrencyCalculatorScreen.h">
+      <Filter>Header Files\Screens\Curriencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsFindCurrencyScreen.h">
+      <Filter>Header Files\Screens\Curriencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsUpdateCurrencyRateScreen.h">
+      <Filter>Header Files\Screens\Curriencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsListUsersScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsFindUserScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsUpdateUserScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsManageUsersScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsLoginScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsLoginRegisterScreen.h">
+      <Filter>Header Files\Screens\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsWithdrawScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ConsoleApplication27\clsTransferScreen.h">
+      <Filter>Header Files\Screens\Clients</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

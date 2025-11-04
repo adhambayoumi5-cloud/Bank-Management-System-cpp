@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Bank_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication27\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication27\\InterfaceCommunication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|C:\\Users\\user\\source\\repos\\Bank_Project\\Bank_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3BA2F105-E811-41AB-87E6-E8ABE70FF8FC}|Bank_Project.vcxproj|solutionrelative:Bank_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication27\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsMainScreen.h",
+              "RelativeToolTip": "..\\ConsoleApplication27\\clsMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:06:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsScreen.h",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication27\\clsScreen.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\clsScreen.h",
+              "RelativeToolTip": "..\\ConsoleApplication27\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:06:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\Global.h",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication27\\Global.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\Global.h",
+              "RelativeToolTip": "..\\ConsoleApplication27\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:06:41.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceCommunication.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\InterfaceCommunication.h",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication27\\InterfaceCommunication.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication27\\InterfaceCommunication.h",
+              "RelativeToolTip": "..\\ConsoleApplication27\\InterfaceCommunication.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:06:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Bank_Project.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank_Project\\Bank_Project.cpp",
               "RelativeDocumentMoniker": "Bank_Project.cpp",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Bank_Project\\Bank_Project.cpp",
               "RelativeToolTip": "Bank_Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-04T09:47:36.247Z",
               "EditorCaption": ""

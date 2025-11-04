@@ -128,10 +128,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\ConsoleApplication27\clsAddNewClientScreen.h" />
-    <ClInclude Include="..\ConsoleApplication27\clsAddNewUserScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsBankClient.h" />
     <ClInclude Include="..\ConsoleApplication27\clsClientListScreen.h" />
-    <ClInclude Include="..\ConsoleApplication27\clsCurrenciesListScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsCurrency.h" />
     <ClInclude Include="..\ConsoleApplication27\clsCurrencyCalculatorScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsCurrencyExchangeMainScreen.h" />
@@ -151,7 +149,6 @@
     <ClInclude Include="..\ConsoleApplication27\clsPerson.h" />
     <ClInclude Include="..\ConsoleApplication27\clsScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsString.h" />
-    <ClInclude Include="..\ConsoleApplication27\clsTotalBalancesScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsTransactionsScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsTransferLogScreen.h" />
     <ClInclude Include="..\ConsoleApplication27\clsTransferScreen.h" />
